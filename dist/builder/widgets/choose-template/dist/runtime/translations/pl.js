@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"Utw\xf3rz nowe \u015brodowisko",createNewApp:"Utw\xf3rz now\u0105 aplikacj\u0119"})}}});

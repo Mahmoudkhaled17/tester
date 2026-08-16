@@ -1,0 +1,17 @@
+{
+  "name": "auth-widget",
+  "label": "User Authentication",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "Your Name",
+  "description": "Widget for User Sign Up, Login and Credit Management",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 350,
+    "height": 450
+  },
+  "icon": "./icon.svg"
+}

@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"\xdaj \xe9lm\xe9ny l\xe9trehoz\xe1sa",createNewApp:"\xdaj alkalmaz\xe1s l\xe9trehoz\xe1sa"})}}});

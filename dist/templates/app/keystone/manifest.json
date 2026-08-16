@@ -1,0 +1,25 @@
+{
+  "name": "keystone",
+  "type": "template",
+  "templateType": "app",
+  "label": "Keystone",
+  "description": "Keystone is a template with a split layout, featuring a top map widget and dual bar chart panels below.",
+  "thumbnail": "thumbnail.png",
+  "order": 13,
+  "templateCreateVersion": "1.21.0",
+  "tags": [
+    "Map",
+    "Chart",
+    "Grid",
+    "Logo",
+    "Title"
+  ],
+  "categoriesTags": [
+    "Fullscreen",
+    "Map centric"
+  ],
+  "isMultiplePage": false,
+  "isMapAware": true,
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

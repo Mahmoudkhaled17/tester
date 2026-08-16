@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"Izveidot jaunu Experience lietotni",createNewApp:"Izveidot jaunu lietotni"})}}});

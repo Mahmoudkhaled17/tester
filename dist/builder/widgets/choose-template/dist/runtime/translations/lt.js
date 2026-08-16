@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"Kurti nauj\u0105 patirt\u012f",createNewApp:"Kurti nauj\u0105 program\u0117l\u0119"})}}});

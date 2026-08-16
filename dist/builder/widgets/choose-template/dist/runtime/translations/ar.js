@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"\u0625\u0646\u0634\u0627\u0621 \u062e\u0628\u0631\u0629 \u062c\u062f\u064a\u062f\u0629",createNewApp:"\u0625\u0646\u0634\u0627\u0621 \u062a\u0637\u0628\u064a\u0642 \u062c\u062f\u064a\u062f"})}}});

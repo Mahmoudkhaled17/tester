@@ -1,0 +1,27 @@
+{
+  "name": "concourse",
+  "type": "template",
+  "templateType": "full-screen-page",
+  "label": "Concourse",
+  "description": "Concourse is a map-centric template featuring a prominent bottom widget controller with large icons and labels. Activated widgets open in a panel in the top right corner.",
+  "thumbnail": "thumbnail.png",
+  "order": 27,
+  "templateCreateVersion": "1.20.0",
+  "tags": [
+    "Map",
+    "Table",
+    "Legend",
+    "Basemap Gallery",
+    "Widget Controller",
+    "Measurement",
+    "Draw",
+    "Select",
+    "Search"
+  ],
+  "categoriesTags": [
+    "Fullscreen",
+    "Map centric"
+  ],
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

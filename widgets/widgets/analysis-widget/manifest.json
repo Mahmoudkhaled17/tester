@@ -1,0 +1,25 @@
+{
+  "name": "analysis-widget",
+  "label": "Spatial Analysis Tools",
+  "type": "widget",
+  "version": "1.0.1",
+  "exbVersion": "1.21.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "author": "Your Name",
+  "description": "Widget for triggering NDVI and Custom API spatial analyses with credit management",
+  "translatedLocales": [
+    "en"
+  ],
+  "hasSetting": true,
+  "defaultSize": {
+    "width": 360,
+    "height": 500
+  },
+  "properties": {
+    "useMapWidgetIds": true,
+    "canInteractWithMap": true
+  },
+  "icon": "./icon.svg"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "keystone",
+  "type": "template",
+  "templateType": "full-screen-page",
+  "label": "Keystone",
+  "description": "Keystone is a template with a split layout, featuring a top map widget and dual bar chart panels below.",
+  "thumbnail": "thumbnail.png",
+  "order": 28,
+  "templateCreateVersion": "1.21.0",
+  "tags": [
+    "Map",
+    "Chart",
+    "Grid"
+  ],
+  "categoriesTags": [
+    "Fullscreen",
+    "Map centric"
+  ],
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

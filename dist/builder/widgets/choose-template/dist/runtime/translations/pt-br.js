@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"Criar uma nova experi\xeancia",createNewApp:"Criar novo aplicativo"})}}});

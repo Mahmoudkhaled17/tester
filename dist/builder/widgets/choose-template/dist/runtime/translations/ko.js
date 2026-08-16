@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"\uc0c8 \ud658\uacbd \uc0dd\uc131",createNewApp:"\uc0c8 \uc571 \uc0dd\uc131"})}}});

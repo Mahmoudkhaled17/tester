@@ -1,0 +1,22 @@
+{
+  "name": "compare-crop-widget",
+  "label": "Compare Crop Analysis",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.12.0",
+  "author": "GAIP Team",
+  "description": "Historical crop analysis comparison over the last 3 years with interactive 3-layer map",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "hasSetting": true,
+  "properties": {
+    "useMapWidgetIds": true,
+    "canInteractWithMap": true,
+    "hasConfig": false
+  },
+  "defaultSize": {
+    "width": 900,
+    "height": 600
+  }
+}

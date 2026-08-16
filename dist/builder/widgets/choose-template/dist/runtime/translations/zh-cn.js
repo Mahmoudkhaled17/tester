@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"\u521b\u5efa\u65b0\u4f53\u9a8c",createNewApp:"\u521b\u5efa\u65b0\u5e94\u7528\u7a0b\u5e8f"})}}});

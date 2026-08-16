@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"T\u1ea1o m\u1ed9t tr\u1ea3i nghi\u1ec7m m\u1edbi",createNewApp:"T\u1ea1o \u1ee9ng d\u1ee5ng m\u1edbi"})}}});

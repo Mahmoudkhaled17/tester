@@ -1,0 +1,32 @@
+{
+  "name": "concourse",
+  "type": "template",
+  "templateType": "app",
+  "label": "Concourse",
+  "description": "Concourse is a map-centric template featuring a prominent bottom widget controller with large icons and labels. Activated widgets open in a panel in the top right corner.",
+  "thumbnail": "thumbnail.png",
+  "order": 17,
+  "templateCreateVersion": "1.20.0",
+  "tags": [
+    "Map",
+    "Table",
+    "Legend",
+    "Basemap Gallery",
+    "Widget Controller",
+    "Measurement",
+    "Draw",
+    "Select",
+    "Search",
+    "Logo",
+    "Title",
+    "Share"
+  ],
+  "categoriesTags": [
+    "Fullscreen",
+    "Map centric"
+  ],
+  "isMultiplePage": false,
+  "isMapAware": true,
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

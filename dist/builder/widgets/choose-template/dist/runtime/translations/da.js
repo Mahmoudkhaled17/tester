@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"Opret en ny oplevelse",createNewApp:"Opret en ny app"})}}});

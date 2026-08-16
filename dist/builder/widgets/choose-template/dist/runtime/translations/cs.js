@@ -1,0 +1,1 @@
+System.register([],function(e){return{execute:function(){e({_widgetLabel:"Vytvo\u0159it novou aplikaci",createNewApp:"Vytvo\u0159it novou aplikaci"})}}});

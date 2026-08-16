@@ -1,0 +1,21 @@
+{
+  "name": "header-widget",
+  "label": "GAIP Header",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.16.0",
+  "author": "GAIP Developer",
+  "description": "Header widget displaying GAIP branding, user info, credits, and logout button.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 60
+  },
+  "properties": {
+    "hasConfig": false
+  }
+}
